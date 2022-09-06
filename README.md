@@ -1,2 +1,2 @@
 # ohwaley
-What the Package Does (Produces a whale shapped message, Whale)
+What the Package Does (Produces a whale shaped message, Whale)
