@@ -1,0 +1,15 @@
+Package: ohwaley
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Benjamin",
+           family = "Graham",
+           role = c("aut", "cre"),
+           email = "bwjgraham3@gmail.com")
+Description: Prints a whale joke with a picture of a whale.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.1
+Imports: 
+    magrittr
